@@ -1,0 +1,6 @@
+[submodule "Drag-and-Drop"]
+	path = Drag-and-Drop
+	url = https://github.com/amaan-bhati/Drag-and-Drop.git
+[submodule "expanding-card"]
+	path = expanding-card
+	url = https://github.com/amaan-bhati/expanding-card.git
